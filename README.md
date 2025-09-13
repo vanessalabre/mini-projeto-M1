@@ -12,5 +12,5 @@ Este projeto foi proposto pelos facilitadores para testar conhecimentos ou aplic
 - Relatórios
   
 ## TECNOLOGIAS 
--JavaScript
+- JavaScript
 - Node.js
